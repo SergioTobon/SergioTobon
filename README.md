@@ -12,11 +12,11 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💬 &nbsp;Me considero una persona apasionada, dispuesta enfrentar retos. <br>
-💡 &nbsp;Me gusta explorar nuevas tecnologías y el desarrollo de soluciones de software.<br>
-🎓 &nbsp;Actualmente estoy estudiando Tecnologia en desarrollo de software.<br>
-🌱 &nbsp;Estoy en camino de aprender más acerca de volverme un mejor desarrollador de software y desarrollador web.<br>
-✍️ &nbsp;En mi tiempo libre, me dedico a entrenar balocesto, compartir con amigos, pasar tiempo a solas y aprender estrategias de ventas.
+💬 &nbsp;I consider myself a passionate person, willing to face challenges. <br>
+💡 &nbsp;I like to explore new technologies and the development of software solutions.<br>
+🎓 &nbsp;I am currently studying software development technology.<br>
+🌱 &nbsp;I am on my way to learn more about becoming a better software developer and web developer.<br>
+✍️ &nbsp;In my free time, I spend my time training balocesto, sharing with friends, spending time alone and learning sales strategies.
 
 <br>
 
