@@ -72,7 +72,7 @@
 <a href="https://instagram.com/sergiostebant" target="_blank"><img src="https://img.shields.io/badge/instagram-SergioTobon-orange?style=for-the-badge&logo=instagram&logoColor=orange"></a>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SergioTobon&label=Profile%20views&color=0e75b6&style=flat" alt="anii693" /> </p>
+<p align="left"> <img src="https://github.com/ghpvc/?username=SergioTobon&label=Profile%20views&color=0e75b6&style=flat" alt="anii693" /> </p>
 
 ------
 
