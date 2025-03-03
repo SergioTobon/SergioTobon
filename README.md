@@ -63,8 +63,8 @@
 
 <hr width="36%" >
 
-<Br>
-### Contact me:
+<br>
+### 🧰 &nbsp;Contact me
 <br>
 <a href="https://github.com/SergioTobon" target="_blank"><img src="https://img.shields.io/badge/Github-SergioTobon-green?style=for-the-badge&logo=github"></a>
 <a href="https://facebook.com/EstebanMontoyaST" target="_blank"><img src="https://img.shields.io/badge/FaceBook-SergioTobon-blue?style=for-the-badge&logo=facebook"></a>
