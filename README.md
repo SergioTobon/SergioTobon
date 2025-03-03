@@ -69,8 +69,8 @@
 <a href="https://github.com/SergioTobon" target="_blank"><img src="https://img.shields.io/badge/Github-SergioTobon-green?style=for-the-badge&logo=github"></a>
 <a href="https://facebook.com/EstebanMontoyaST" target="_blank"><img src="https://img.shields.io/badge/FaceBook-SergioTobon-blue?style=for-the-badge&logo=facebook"></a>
 <a href="mailto:tobonsergio22@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-tobonsergio22@gmail.com-red?style=for-the-badge&logo=gmail"></a>
-<a href="https://instagram.com/sergiostebant" targer="_blank"><img src="https://img.shields.io/badge/Instagram-SergioTobon-orange?style=for-the-badge&logo=instagram&logoColor=orange&logoSize=auto&label=healthiness&labelColor=grey&color=orange&cacheSeconds=3600)
-"></a>
+<a href="https://instagram.com/sergiostebant" target="_blank"><img src="https://img.shields.io/badge/FaceBook-SergioTobon-blue?style=for-the-badge&logo=facebook"></a>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SergioTobon&label=Profile%20views&color=0e75b6&style=flat" alt="anii693" /> </p>
 
