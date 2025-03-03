@@ -64,13 +64,15 @@
 <hr width="36%" >
 
 <Br>
-<h1 align="center">Get in Touch! 📬</h1>
+### Contact me:
+<br>
+<a href="https://github.com/SergioTobon" target="_blank"><img src="https://img.shields.io/badge/Github-KasRoudra-green?style=for-the-badge&logo=github"></a>
+<a href="https://facebook.com/EstebanMontoyaST" target="_blank"><img src="https://img.shields.io/badge/FaceBook-KasRoudra-purple?style=for-the-badge&logo=facebook"></a>
+<a href="mailto:tobonsergio22@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-kasroudrakrd@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
+
+
 <Br>
-<p align="center">
-<a href="https://www.linkedin.com/in/arya-manjaramkar" target="blank"><img align="center" src="https://img.shields.io/badge/Arya Manjaramkar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:aryagm01@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/aryagm01@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/Aryagm" target="blank"><img align="center" src="https://img.shields.io/badge/Aryagm-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-  
-<Br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SergioTobon&label=Profile%20views&color=0e75b6&style=flat" alt="anii693" /> </p>
 
 ------
