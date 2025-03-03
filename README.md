@@ -60,8 +60,11 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
+<br>
 
 ### 🧰 &nbsp;Contact me
+
+<br>
 
 <a href="https://github.com/SergioTobon" target="_blank"><img src="https://img.shields.io/badge/Github-SergioTobon-green?style=for-the-badge&logo=github"></a>
 <a href="https://facebook.com/EstebanMontoyaST" target="_blank"><img src="https://img.shields.io/badge/FaceBook-SergioTobon-blue?style=for-the-badge&logo=facebook"></a>
