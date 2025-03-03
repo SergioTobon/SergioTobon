@@ -62,6 +62,13 @@
 
 <br>
 
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/SergioTobon/SergioTobon/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
+<br>
+
 ### 🧰 &nbsp;Contact me
 
 <br>
