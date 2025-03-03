@@ -62,10 +62,10 @@
 
 <br>
 
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/SergioTobon/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioTobon&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Alishans's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergioTobon_icons=true&theme=radical))](https://github.com/al3sha9/github-readme-stats)
+
 
 <br>
 
