@@ -65,23 +65,12 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
+<Br>
 <p align="center">
-  <a href="https://github.com/Adityakanoi2001">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SergioTobon&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/Adityakanoi2001">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SergioTobon&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
+<a href="https://www.linkedin.com/in/arya-manjaramkar" target="blank"><img align="center" src="https://img.shields.io/badge/Arya Manjaramkar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:aryagm01@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/aryagm01@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/Aryagm" target="blank"><img align="center" src="https://img.shields.io/badge/Aryagm-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
-
-<hr width="60%" >
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sergio-tbn" target="blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://instagram.com/sergiostebant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="30" width="40" /></a>
-</p>
-<br>
+  
+<Br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SergioTobon&label=Profile%20views&color=0e75b6&style=flat" alt="anii693" /> </p>
 
 ------
