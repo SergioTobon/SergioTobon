@@ -66,11 +66,9 @@
 <Br>
 ### Contact me:
 <br>
-<a href="https://github.com/SergioTobon" target="_blank"><img src="https://img.shields.io/badge/Github-KasRoudra-green?style=for-the-badge&logo=github"></a>
-<a href="https://facebook.com/EstebanMontoyaST" target="_blank"><img src="https://img.shields.io/badge/FaceBook-KasRoudra-purple?style=for-the-badge&logo=facebook"></a>
-<a href="mailto:tobonsergio22@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-kasroudrakrd@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
-
-
+<a href="https://github.com/SergioTobon" target="_blank"><img src="https://img.shields.io/badge/Github-SergioTobon-green?style=for-the-badge&logo=github"></a>
+<a href="https://facebook.com/EstebanMontoyaST" target="_blank"><img src="https://img.shields.io/badge/FaceBook-SergioTobon-purple?style=for-the-badge&logo=facebook"></a>
+<a href="mailto:tobonsergio22@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-tobonsergio22@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
 <Br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SergioTobon&label=Profile%20views&color=0e75b6&style=flat" alt="anii693" /> </p>
