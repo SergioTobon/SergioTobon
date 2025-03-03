@@ -81,6 +81,7 @@
 <a href="https://facebook.com/EstebanMontoyaST" target="_blank"><img src="https://img.shields.io/badge/FaceBook-SergioTobon-blue?style=for-the-badge&logo=facebook&logoColor=blue"></a>
 <a href="mailto:tobonsergio22@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-tobonsergio22@gmail.com-red?style=for-the-badge&logo=gmail"></a>
 <a href="https://instagram.com/sergiostebant" target="_blank"><img src="https://img.shields.io/badge/instagram-SergioTobon-orange?style=for-the-badge&logo=instagram&logoColor=orange"></a>
+<a href="https://linkedin.com/sergio-tbn" target="_blank"><img src="https://img.shields.io/badge/linkedin-SergioTobon-orange?style=for-the-badge&logo=linkedin&logoColor=orange"></a>
 
 ------
 
