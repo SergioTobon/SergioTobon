@@ -83,6 +83,9 @@
 <a href="mailto:tobonsergio22@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-tobonsergio22@gmail.com-red?style=for-the-badge&logo=gmail"></a>
 <a href="https://instagram.com/sergiostebant" target="_blank"><img src="https://img.shields.io/badge/instagram-SergioTobon-orange?style=for-the-badge&logo=instagram&logoColor=orange"></a>
 <a href="https://www.linkedin.com/in/sergio-tbn/" target="_blank"><img src="https://img.shields.io/badge/linkedin-SergioTobon-blue?style=for-the-badge&logo=linkedin&logoColor=blue"></a>
+<a href="https://www.linkedin.com/in/sergio-tbn/" target="_blank"><img src="https://img.shields.io/badge/instagram-Sergi_Tobon-black?style=for-the-badge&logo=instagram&logoColor=orange&color=orange
+"></a>
+
 
 ------
 
