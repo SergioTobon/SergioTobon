@@ -14,9 +14,10 @@
 
 💬 &nbsp;I consider myself a passionate person, willing to face challenges. <br>
 💡 &nbsp;I like to explore new technologies and the development of software solutions.<br>
-🎓 &nbsp;I am currently studying software development technology.<br>
-🌱 &nbsp;I am on my way to learn more about becoming a better software developer and web developer.<br>
-✍️ &nbsp;In my free time, I spend my time training balocesto, sharing with friends, spending time alone and learning sales strategies.
+✍️ &nbsp;I am currently studying software development technology.<br>
+🎓 &nbsp;I am on my way to learn more about becoming a better software developer and web developer.<br>
+🌱 &nbsp;In my free time, I spend my time training balocesto, sharing with friends, spending time alone and learning sales strategies.
+
 
 <br>
 
