@@ -12,10 +12,10 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💬 &nbsp;Me considero una persona apasionada, dispuesta enfrentar retos.\
+💬 &nbsp;Me considero una persona apasionada, dispuesta enfrentar retos.\ ~
 💡 &nbsp;Me gusta explorar nuevas tecnologías y el desarrollo de soluciones de software.\ ~
 🎓 &nbsp;Actualmente estoy estudiando Tecnologia en desarrollo de software .\\ ~ - .
-🌱 &nbsp;Estoy en camino de aprender más acerca de volverme un mejor desarrollador de software y desarrollador web.\
+🌱 &nbsp;Estoy en camino de aprender más acerca de volverme un mejor desarrollador de software y desarrollador web.\ ~
 ✍️ &nbsp;En mi tiempo libre, me dedico a entrenar balocesto, compartir con amigos, pasar tiempo a solas y aprender estrategias de ventas.\\ ~.
 
 <br>
